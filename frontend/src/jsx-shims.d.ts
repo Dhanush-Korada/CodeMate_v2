@@ -1,0 +1,16 @@
+declare module "*.jsx";
+declare module "@/pages/*";
+declare module "@/components/Header";
+declare module "@/components/ProjectHistory";
+declare module "@/components/Chat";
+declare module "@/components/ChatMessage";
+declare module "@/components/PromptInput";
+declare module "@/components/Preview";
+declare module "@/components/FileExplorer";
+declare module "@/components/Toolbar";
+declare module "@/components/CodeViewer";
+declare module "@/hooks/useProjects";
+declare module "@/hooks/useChat";
+declare module "@/services/api";
+declare module "react-syntax-highlighter";
+declare module "react-syntax-highlighter/dist/esm/styles/prism";

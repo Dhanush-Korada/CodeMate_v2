@@ -1,7 +1,16 @@
 # CodeMate Pro
 
 CodeMate Pro upgrades the original CodeMate LangGraph coding agent into a professional AI coding workspace. The original CLI agent is still available, and the new web workspace adds project management, memory, file editing, live preview, prompt history, versions, and terminal execution around the existing backend.
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# CodeMate
+
+AI-powered coding workspace.
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-18%2B-61DAFB.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-3178C6.svg)](https://www.typescriptlang.org/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agent-orange.svg)](https://www.langchain.com/langgraph)
+[![Flask](https://img.shields.io/badge/Flask-Backend-black.svg)](https://flask.palletsprojects.com/)
 
 ## Architecture
 
